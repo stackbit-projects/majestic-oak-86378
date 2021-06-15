@@ -180,7 +180,7 @@ weight = 6
     Discord = ""
     Leanpub = ""
     Udemy = ""
-    RSS = true
+    RSS = false
 
       [languages.en.params.social.Mastodon]
       id = ""
