@@ -183,7 +183,7 @@ weight = 6
     RSS = true
 
       [languages.en.params.social.Mastodon]
-      id = "@xxxx"
+      id = ""
       prefix = "https://mastodon.technology/"
 
 [params]
