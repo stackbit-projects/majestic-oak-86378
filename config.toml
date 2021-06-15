@@ -110,7 +110,7 @@ weight = 6
       disclaimer = ""
 
       [languages.en.params.home.posts]
-      enable = true
+      enable = false
       paginate = 6
 
     [languages.en.params.social]
