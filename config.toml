@@ -114,8 +114,8 @@ weight = 6
       paginate = 6
 
     [languages.en.params.social]
-    GitHub = "https://github.com/MGalego"
-    Linkedin = ""
+    GitHub = "MGalego"
+    Linkedin = "manugallego"
     Twitter = "xxxx"
     Instagram = "xxxx"
     Facebook = "xxxx"
