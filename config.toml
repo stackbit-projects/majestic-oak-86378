@@ -221,7 +221,7 @@ images = [ "/logo.png" ]
   rss = 10
 
   [params.comment]
-  enable = true
+  enable = false
 
     [params.comment.remark42]
     enable = true
