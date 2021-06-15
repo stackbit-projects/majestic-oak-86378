@@ -1,5 +1,5 @@
 baseURL = ""
-defaultContentLanguage = "en"
+defaultContentLanguage = "es"
 theme = "ublogger"
 themesDir = "themes"
 title = "uBlogger"
