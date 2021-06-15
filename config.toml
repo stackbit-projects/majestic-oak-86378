@@ -224,7 +224,7 @@ images = [ "/logo.png" ]
   enable = false
 
     [params.comment.remark42]
-    enable = true
+    enable = false
     host = "https://comments.upagge.ru"
     site = "documentation"
     locale = "en"
