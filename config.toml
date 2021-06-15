@@ -196,7 +196,7 @@ images = [ "/logo.png" ]
 
     [params.header.title]
     logo = ""
-    name = "uBlogger"
+    name = "ManuGallego"
     pre = "<i class='fas fa-pencil-alt fa-fw'></i>"
     post = ""
 
